@@ -1,0 +1,73 @@
+html,body {
+background-image:url(img/slash2.png);
+text-align:center;
+}
+h1{
+font-family:sans-serif;
+color:blue;
+font-size:-1;
+}
+
+table {
+margin:auto;
+background-color:#FFFFFF;
+border-color:black;
+border-style:solid;
+border-collapse:collapse;
+border-width:2px;
+}
+th {
+font-size:20px;	
+border:1px dotted #6495ed;
+background-color:#D0E3FA;
+}
+
+td {
+text-align:left;
+padding:5px;
+font-family:truetype;
+font-size:100%;
+border-color:black;
+border-style:dotted;
+border-width:1px;
+}
+.menu_note{
+padding:2px;
+cursor : pointer;
+background-color : #6495ED;
+text-align : center;
+border : 2px outset #000000;
+}
+
+.menu_liste{
+padding:2px;
+cursor : pointer;
+background-color : #99FF88;
+text-align : center;
+border : 2px outset #000000;
+}
+
+.menu_bulletin{
+padding:2px;
+cursor : pointer;
+background-color : #FF9988;
+text-align : center;
+border : 2px outset #000000;
+}
+.menu_pp{
+padding:2px;
+cursor : pointer;
+background-color : #FFD700;
+text-align : center;
+font-family : bold;
+border : 2px outset #000000;
+}
+
+.menu_accueil{
+padding : 2px;
+cursor : pointer;
+background-color : #4477FF;
+text-align : center;
+color : #FFFFFF;
+border : 2px outset #000000;
+}

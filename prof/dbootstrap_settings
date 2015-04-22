@@ -1,0 +1,7 @@
+# Inserted by languagechooser.
+LANG_INST="fr"
+LANGUAGE_INST="fr_FR:fr:en_GB:en"
+# Inserted by kbd-chooser.
+KEYBD="i386/azerty/fr-latin9"
+# inserted by prebaseconfig
+SUITE="stable"
